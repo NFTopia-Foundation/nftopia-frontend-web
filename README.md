@@ -34,6 +34,7 @@ cd nftopia-frontend-web
 pnpm install
 cp .env.example .env.local
 pnpm dev
+```
 
 ## 📂 Project Structure
 
@@ -43,6 +44,7 @@ src/
 ├── components/
 ├── lib/
 └── stores/
+```
 
 ## 🤝 Contributing
 
